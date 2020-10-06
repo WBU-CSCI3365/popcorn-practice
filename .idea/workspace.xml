@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c6949ab-aa9c-4cb8-a9e6-2b49e41892ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/popcorn3.html" beforeDir="false" afterPath="$PROJECT_DIR$/popcorn3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,6 +59,8 @@
       <workItem from="1601863725505" duration="599000" />
       <workItem from="1602007144990" duration="814000" />
       <workItem from="1602008236184" duration="580000" />
+      <workItem from="1602010682428" duration="31000" />
+      <workItem from="1602019105716" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1601843420275</created>
@@ -158,6 +162,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="162" key="#PHP/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602008614204" />
+    <state x="2236" y="-316" key="SettingsEditor" timestamp="1602010712793">
+      <screen x="1930" y="-433" width="1600" height="860" />
+    </state>
+    <state x="2236" y="-316" key="SettingsEditor/1930.-433.1600.860/564.-768.1366.728/0.0.1920.1040/-802.-768.1366.728@1930.-433.1600.860" timestamp="1602010712793" />
     <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602008513900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
