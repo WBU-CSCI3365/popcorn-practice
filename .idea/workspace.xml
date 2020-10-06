@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c6949ab-aa9c-4cb8-a9e6-2b49e41892ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/popcorn3.html" beforeDir="false" afterPath="$PROJECT_DIR$/popcorn3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <workItem from="1601843396582" duration="1323000" />
       <workItem from="1601863725505" duration="599000" />
       <workItem from="1602007144990" duration="814000" />
-      <workItem from="1602008236184" duration="375000" />
+      <workItem from="1602008236184" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1601843420275</created>
@@ -114,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602008506743</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Configured Workspace and Fixed Popcorn3&#10;&#10;-PHP should be properly configured now&#10;-Edited popcorn3.html's form action reference away from localhost link and back to only the file name.">
+      <created>1602008749333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602008749333</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Configured Workspace and Fixed Popcorn3&#10;&#10;-PHP should be properly configured now&#10;-Edited popcorn3.html's form action reference away from localhost link and back to only the file name.">
+      <created>1602008792980</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602008792980</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,9 +150,14 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Added PHP Config to project and removed PHP 7.4 folder." />
     <MESSAGE value="Removed PHP 7.4 folder&#10;&#10;Failed to remove it with last commit / push." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed PHP 7.4 folder&#10;&#10;Failed to remove it with last commit / push." />
+    <MESSAGE value="Configured Workspace and Fixed Popcorn3&#10;&#10;-PHP should be properly configured now&#10;-Edited popcorn3.html's form action reference away from localhost link and back to only the file name." />
+    <option name="LAST_COMMIT_MESSAGE" value="Configured Workspace and Fixed Popcorn3&#10;&#10;-PHP should be properly configured now&#10;-Edited popcorn3.html's form action reference away from localhost link and back to only the file name." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="667" y="162" key="#PHP" timestamp="1602008614204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="162" key="#PHP/-1920.-3.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602008614204" />
     <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602008513900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
